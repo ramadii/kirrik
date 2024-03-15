@@ -1,0 +1,3 @@
+At the moment of prediction placing, each user may reserve some amount of PROS tokens in order to ensure his prediction. The maximum amount of the reserved tokens equals 10% of the user prediction amount. Each exact pool has its own insurance fund
+At the moment of the reward distribution,
+15% of the prize is taken to the pool insurance fund and distributed to users who lost their predictions, but reserved kirrikopi tokens for the insurance.
